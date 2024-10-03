@@ -1,4 +1,4 @@
-> Main Codebase is private. If you need access please email me with details.
+> The main codebase is private as it is currently in production at PSTU.
 <div align="center">
   <h1>🌟 PSTU RTC Project Management (Frontend)🌟 </h1>
 
