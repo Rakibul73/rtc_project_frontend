@@ -1,4 +1,4 @@
-> The main codebase is private as it is currently in production at PSTU.
+> The main codebase is private as it is currently in production at PSTU. You can view the website https://csit.pstu.ac.bd:7020
 <div align="center">
   <h1>🌟 PSTU RTC Project Management (Frontend)🌟 </h1>
 
