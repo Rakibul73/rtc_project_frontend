@@ -1,4 +1,6 @@
-> The main codebase is private as it is currently in production at PSTU. You can view the website https://csit.pstu.ac.bd:7020
+> The main codebase is private as it is currently in production at PSTU. You can view the website https://csit.pstu.ac.bd:7020  <br>
+> User = `test_sobuj_sir` Pass = `test_sobuj_sir` Role = `Teacher` <br>
+> User = `rakib` Pass = `rakibrakib` Role = `Admin` 
 <div align="center">
   <h1>🌟 PSTU RTC Project Management (Frontend)🌟 </h1>
 
